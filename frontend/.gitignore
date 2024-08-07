@@ -1,0 +1,11 @@
+node_modules
+build
+!public/.gitkeep
+.env
+.env.exemple
+
+package-lock.json
+
+# Ignore test-related files
+/coverage.data
+/coverage/
