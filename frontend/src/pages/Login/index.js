@@ -144,7 +144,7 @@ const Login = () => {
 			<span className={classes.rodape}>Experimente nossa versão mobile</span>
 			</div>
 			<br/>
-			<span className={classes.powered}>artsolucoes.com.br</span>
+			<span className={classes.powered}>SendFacil</span>
 			<Box mt={8}>{/* <Copyright /> */}</Box>
 		</Container>
 		</div>
